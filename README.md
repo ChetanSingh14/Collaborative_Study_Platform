@@ -88,3 +88,85 @@ Collaborative_Study_Platform
 1. Navigate to the `Backend` directory:
    ```bash
    cd Backend
+
+2. Install dependencies:
+```bash
+npm install
+``` 
+3. Set up your MongoDB connection string in db.js.
+
+4. Start the backend server:
+```bash
+npm start
+```
+
+### Frontend
+1. Navigate to the Frontend directory:
+```bash
+cd Frontend
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the React development server:
+```bash
+npm start
+```
+
+##Tech Stack
+
+###Frontend
+- React.js
+- HTML/CSS
+- JavaScript
+- 
+###Backend
+- Node.js
+- Express.js
+- MongoDB
+
+###Tools
+- **Version Control**: Git & GitHub
+- **Database Management**: MongoDB Compass
+- **API Testing**: Postman
+
+
+##Contribution Guidelines
+1. Fork the repository.
+   
+2. Clone the repository:
+```bash
+git clone https://github.com/<your-username>/Collaborative_Study_Platform.git
+```
+
+3. Create a feature branch:
+```bash
+git checkout -b feature/your-feature-name
+```
+
+4. Commit your changes:
+```bash
+git commit -m "Add your message here"
+```
+
+5. Push the changes:
+```bash
+git push origin feature/your-feature-name
+```
+
+6. Submit a Pull Request and wait for it to be reviewed.
+
+##Example Screenshots
+###Add screenshots or GIFs here to show the UI and functionality of your platform.
+
+##License
+This project is licensed under the MIT License. You are free to use and modify it for personal or commercial purposes.
+
+##Contact
+If you have any queries or issues, feel free to contact the team:
+
+Email: sharadsingh0203@gmail.com
+GitHub Issues: Open a new issue.
