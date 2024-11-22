@@ -116,25 +116,25 @@ npm install
 npm start
 ```
 
-##Tech Stack
+## Tech Stack
 
-###Frontend
+### Frontend
 - React.js
 - HTML/CSS
 - JavaScript
 - 
-###Backend
+### Backend
 - Node.js
 - Express.js
 - MongoDB
 
-###Tools
+### Tools
 - **Version Control**: Git & GitHub
 - **Database Management**: MongoDB Compass
 - **API Testing**: Postman
 
 
-##Contribution Guidelines
+## Contribution Guidelines
 1. Fork the repository.
    
 2. Clone the repository:
@@ -159,13 +159,13 @@ git push origin feature/your-feature-name
 
 6. Submit a Pull Request and wait for it to be reviewed.
 
-##Example Screenshots
-###Add screenshots or GIFs here to show the UI and functionality of your platform.
+## Example Screenshots
+### Add screenshots or GIFs here to show the UI and functionality of your platform.
 
-##License
+## License
 This project is licensed under the MIT License. You are free to use and modify it for personal or commercial purposes.
 
-##Contact
+## Contact
 If you have any queries or issues, feel free to contact the team:
 
 Email: sharadsingh0203@gmail.com
