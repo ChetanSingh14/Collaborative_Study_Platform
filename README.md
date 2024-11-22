@@ -122,7 +122,7 @@ npm start
 - React.js
 - HTML/CSS
 - JavaScript
-- 
+  
 ### Backend
 - Node.js
 - Express.js
