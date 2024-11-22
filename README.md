@@ -1,24 +1,35 @@
-# Collaborative_Study_Platform
+# Collaborative Study Platform
 
-Core Features
-User Management
+## Project Overview
+The **Collaborative Study Platform** is a full-stack web application designed for students and educators to collaborate and share educational resources. This platform is divided into two main components:
 
-Sign-up/Login: With roles like students, educators, and administrators.
-Social login (Google, LinkedIn, etc.).
-Profile customization: Add interests, skills, and study goals.
-Study Groups and Collaboration
+- **Backend**: Built with Node.js and Express.js for APIs, database handling, and server-side logic.
+- **Frontend**: Created with React.js to provide an interactive and user-friendly interface.
 
-Create or join study groups for specific topics or courses.
-Group chat or discussion forums.
-Live collaboration tools: Like Google Docs for note-sharing and collaborative writing.
-Scheduling tools for group study sessions with calendar integration.
-Resource Sharing
+---
 
-Upload and share files: PDFs, presentations, code snippets, etc.
-Bookmark and curate shared resources.
-Voting system for quality resources (upvotes/downvotes).
-Study Materials
+## Folder Structure
 
-Flashcards and Quizzes: Users can create, share, and take them.
-Topic-wise notes and quick revision materials.
-Question banks for competitive exams.
+```plaintext
+Collaborative_Study_Platform
+├── Backend
+│   ├── Controllers       # Handles business logic and API request responses
+│   ├── Models            # Database schema and models
+│   ├── Routes            # API routes for various functionalities
+│   ├── db.js             # MongoDB connection configuration
+│   ├── index.js          # Entry point for the backend server
+│   ├── package.json      # Backend dependencies and scripts
+│   ├── package-lock.json # Backend dependency lockfile
+│
+├── Frontend
+│   ├── node_modules      # Frontend dependencies
+│   ├── public            # Static assets
+│   ├── src               # React.js components and logic
+│   ├── package.json      # Frontend dependencies and scripts
+│   ├── package-lock.json # Frontend dependency lockfile
+│   ├── .gitignore        # Ignored files for Git
+│   ├── README.md         # Frontend-specific documentation
+│
+├── .gitignore            # Ignored files for Git
+├── README.md             # Main project documentation
+
